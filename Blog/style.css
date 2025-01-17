@@ -1,0 +1,25 @@
+h1{
+    color: #363D6B;
+    background: #ffff;
+    text-align: center;
+    font-size: 100px;
+}
+h2, 
+h3{
+    font-size: 50px;
+    background: #29365A;
+    color:#ffff;
+    text-align: center;
+}
+p{
+    color: #363D6B;
+   font-size: 28px;
+    text-align: center;
+}
+
+.indice{
+    background: #93B4BE;
+    color: #F7F6CB;
+    font-size: 28px;
+     text-align: justify;
+}

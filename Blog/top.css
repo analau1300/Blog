@@ -1,0 +1,32 @@
+h1{
+    color: #F7F6CB;
+    background-color: #363D6B;
+    text-align: center;
+    font-size: 35px;
+    font-family: "Poppins", serif;
+}
+strong{
+    color: #363D6B;
+     font-size: 28px;
+     text-align: center;
+      font-family: "Poppins", serif;
+}
+section{
+    color: #363D6B;
+     font-size: 18px;
+     text-align:center;
+      font-family: "Poppins", serif;
+  }
+li{
+    color: #363D6B;
+    font-size: 18px;
+     text-align: normal;
+     font-family: "Poppins", serif;
+}
+footer{
+    color: #F7F6CB;
+     font-size: 18px;
+     text-align:center;
+      font-family: "Poppins", serif;
+      background-color: #363D6B;
+}
